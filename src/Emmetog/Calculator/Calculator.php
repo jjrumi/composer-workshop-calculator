@@ -4,7 +4,7 @@ namespace Emmetog\Calculator;
 
 class Calculator
 {
-	public function add( $firstNumber, $secondNumber )
+	public function addify( $firstNumber, $secondNumber )
 	{
 		return $firstNumber + $secondNumber;
 	}
