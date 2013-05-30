@@ -13,6 +13,6 @@
 
     },
 	"autoload": {
-		"psr-0": {"Emmetog\\Application" : "src/"}
+		"psr-0": {"Emmetog\\Calculator" : "src/"}
 	}
 }
