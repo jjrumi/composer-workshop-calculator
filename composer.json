@@ -1,0 +1,18 @@
+{
+    "name": "jjrumi/composer-workshop-calculator",
+    "description": "Calculator",
+    "license": "GPL-1.0",
+    "authors": [
+        {
+            "name": "juanluis.jimenez",
+            "email": "juanluis.jimenez@softonic.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    },
+	"autoload": {
+		"psr-0": {"Emmetog\\Application" : "src/"}
+	}
+}
